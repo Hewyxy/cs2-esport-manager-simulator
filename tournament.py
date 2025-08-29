@@ -78,6 +78,21 @@ tournaments = [
         }
     },
     {
+        "Name": "ESports World Cup",
+        "PrizePool": 2000000,
+        "title": "EWC x",
+        "Prizes": {
+            1: 1000000,
+            2: 500000,
+            3: 150000,
+            4: 100000,
+            5: 50000,
+            6: 30000,
+            7: 20000,
+            8: 10000
+        }
+    },
+    {
         "Name": "PGL Major",
         "PrizePool": 1500000,
         "title": "Major x",

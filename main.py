@@ -53,7 +53,7 @@ def main():
         if user == "1":
             tournament(teams, current_tournament)
             current_tournament += 1
-            if current_tournament == 6:
+            if current_tournament == 7:
                 current_tournament = 0
                 balance(teams)
                 save_game(data)
