@@ -60,7 +60,7 @@ def roster(team):
     else:
         winrate = f"{(team['Wins'] / (team['Wins'] + team['Losses'])) * 100:.1f}%"
 
-    print(f"[{team['Points']}] {team['Name']} ({avg_rating:.2f})\t${team['Earing']}\t  Winrate:{winrate}")
+    print(f"[{team['Points']}] {team['Name']} ({avg_rating:.2f}) | ${team['Earing']:,} | Winrate:{winrate}")
 
     if team["Trophys"]:
         print("Trophies:", ", ".join(f"{key} {value}" for key, value in team["Trophys"].items()))
@@ -262,8 +262,8 @@ def balance(teams):
             # Ограничим рейтинг в пределах 0.50 - 2.00
             player["Rating"] = round(min(max(player["Rating"], 0.50), 2.00), 2)
             # Обновим статистику
-            player["Kills"] = int(player["Rating"] * 100)
-            player["Deaths"] = 100
+            player["Kills"] = int(player["Rating"] * 1000)
+            player["Deaths"] = 1000
     print("New season Begins!")
     time.sleep(2)
     os.system("cls")

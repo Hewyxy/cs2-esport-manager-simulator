@@ -1,0 +1,850 @@
+{
+    "Teams": [
+        {
+            "Name": "Spirit",
+            "Points": 0,
+            "Earing": 0,
+            "Players": [
+                {
+                    "Nickname": "jabbi",
+                    "Rating": 1.13,
+                    "Kills": 1130,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Spirit"
+                },
+                {
+                    "Nickname": "Hewyxy",
+                    "Rating": 1.13,
+                    "Kills": 1130,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Spirit"
+                },
+                {
+                    "Nickname": "sdy",
+                    "Rating": 1.08,
+                    "Kills": 1080,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Spirit"
+                },
+                {
+                    "Nickname": "ropz",
+                    "Rating": 1.11,
+                    "Kills": 1110,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Spirit"
+                },
+                {
+                    "Nickname": "nitr0",
+                    "Rating": 1.1,
+                    "Kills": 1100,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Spirit"
+                }
+            ],
+            "Wins": 0,
+            "Losses": 0,
+            "Trophys": {}
+        },
+        {
+            "Name": "FaZe",
+            "Points": 0,
+            "Earing": 0,
+            "Players": [
+                {
+                    "Nickname": "EliGE",
+                    "Rating": 1.21,
+                    "Kills": 1210,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "FaZe"
+                },
+                {
+                    "Nickname": "Magisk",
+                    "Rating": 0.92,
+                    "Kills": 920,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "FaZe"
+                },
+                {
+                    "Nickname": "sh1n",
+                    "Rating": 1.28,
+                    "Kills": 1280,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "FaZe"
+                },
+                {
+                    "Nickname": "woxic",
+                    "Rating": 1.14,
+                    "Kills": 1140,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "FaZe"
+                },
+                {
+                    "Nickname": "donk",
+                    "Rating": 1.38,
+                    "Kills": 1380,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "FaZe"
+                }
+            ],
+            "Wins": 0,
+            "Losses": 0,
+            "Trophys": {}
+        },
+        {
+            "Name": "Aurora",
+            "Points": 0,
+            "Earing": 0,
+            "Players": [
+                {
+                    "Nickname": "npl",
+                    "Rating": 1.11,
+                    "Kills": 1110,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Aurora"
+                },
+                {
+                    "Nickname": "makazze",
+                    "Rating": 1.13,
+                    "Kills": 1130,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Aurora"
+                },
+                {
+                    "Nickname": "K1LL3R00S1X",
+                    "Rating": 0.92,
+                    "Kills": 920,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Aurora"
+                },
+                {
+                    "Nickname": "riskyb0b",
+                    "Rating": 1.0,
+                    "Kills": 1000,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Aurora"
+                },
+                {
+                    "Nickname": "910",
+                    "Rating": 1.05,
+                    "Kills": 1050,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Aurora"
+                }
+            ],
+            "Wins": 0,
+            "Losses": 0,
+            "Trophys": {}
+        },
+        {
+            "Name": "Virtus.pro",
+            "Points": 0,
+            "Earing": 0,
+            "Players": [
+                {
+                    "Nickname": "cmtry",
+                    "Rating": 0.99,
+                    "Kills": 990,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Virtus.pro"
+                },
+                {
+                    "Nickname": "zweih",
+                    "Rating": 0.97,
+                    "Kills": 970,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Virtus.pro"
+                },
+                {
+                    "Nickname": "Jame",
+                    "Rating": 1.14,
+                    "Kills": 1140,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Virtus.pro"
+                },
+                {
+                    "Nickname": "ZywOo",
+                    "Rating": 1.23,
+                    "Kills": 1230,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Virtus.pro"
+                },
+                {
+                    "Nickname": "Senzu",
+                    "Rating": 1.14,
+                    "Kills": 1140,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Virtus.pro"
+                }
+            ],
+            "Wins": 0,
+            "Losses": 0,
+            "Trophys": {}
+        },
+        {
+            "Name": "NAVI",
+            "Points": 0,
+            "Earing": 0,
+            "Players": [
+                {
+                    "Nickname": "nafany",
+                    "Rating": 1.11,
+                    "Kills": 1110,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "NAVI"
+                },
+                {
+                    "Nickname": "huNter",
+                    "Rating": 1.04,
+                    "Kills": 1040,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "NAVI"
+                },
+                {
+                    "Nickname": "Interz",
+                    "Rating": 1.01,
+                    "Kills": 1010,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "NAVI"
+                },
+                {
+                    "Nickname": "TeSeS",
+                    "Rating": 1.03,
+                    "Kills": 1030,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "NAVI"
+                },
+                {
+                    "Nickname": "NIGHT666LADE",
+                    "Rating": 1.12,
+                    "Kills": 1120,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "NAVI"
+                }
+            ],
+            "Wins": 0,
+            "Losses": 0,
+            "Trophys": {}
+        },
+        {
+            "Name": "Liquid",
+            "Points": 0,
+            "Earing": 0,
+            "Players": [
+                {
+                    "Nickname": "Ax1le",
+                    "Rating": 1.08,
+                    "Kills": 1080,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Liquid"
+                },
+                {
+                    "Nickname": "device",
+                    "Rating": 1.13,
+                    "Kills": 1130,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Liquid"
+                },
+                {
+                    "Nickname": "frozen",
+                    "Rating": 1.18,
+                    "Kills": 1180,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Liquid"
+                },
+                {
+                    "Nickname": "1eer",
+                    "Rating": 0.94,
+                    "Kills": 940,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Liquid"
+                },
+                {
+                    "Nickname": "torzsi",
+                    "Rating": 1.12,
+                    "Kills": 1120,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Liquid"
+                }
+            ],
+            "Wins": 0,
+            "Losses": 0,
+            "Trophys": {}
+        },
+        {
+            "Name": "The MongolZ",
+            "Points": 0,
+            "Earing": 0,
+            "Players": [
+                {
+                    "Nickname": "XANTARES",
+                    "Rating": 1.19,
+                    "Kills": 1190,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "The MongolZ"
+                },
+                {
+                    "Nickname": "Perfecto",
+                    "Rating": 0.92,
+                    "Kills": 920,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "The MongolZ"
+                },
+                {
+                    "Nickname": "Spinx",
+                    "Rating": 1.04,
+                    "Kills": 1040,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "The MongolZ"
+                },
+                {
+                    "Nickname": "kyousuke",
+                    "Rating": 1.21,
+                    "Kills": 1210,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "The MongolZ"
+                },
+                {
+                    "Nickname": "zont1x",
+                    "Rating": 1.04,
+                    "Kills": 1040,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "The MongolZ"
+                }
+            ],
+            "Wins": 0,
+            "Losses": 0,
+            "Trophys": {}
+        },
+        {
+            "Name": "Astralis",
+            "Points": 0,
+            "Earing": 0,
+            "Players": [
+                {
+                    "Nickname": "gla1ve",
+                    "Rating": 0.9,
+                    "Kills": 900,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Astralis"
+                },
+                {
+                    "Nickname": "degster",
+                    "Rating": 1.03,
+                    "Kills": 1030,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Astralis"
+                },
+                {
+                    "Nickname": "FalleN",
+                    "Rating": 0.96,
+                    "Kills": 960,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Astralis"
+                },
+                {
+                    "Nickname": "flameZ",
+                    "Rating": 1.1,
+                    "Kills": 1100,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Astralis"
+                },
+                {
+                    "Nickname": "blameF",
+                    "Rating": 1.15,
+                    "Kills": 1150,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Astralis"
+                }
+            ],
+            "Wins": 0,
+            "Losses": 0,
+            "Trophys": {}
+        },
+        {
+            "Name": "MOUZ",
+            "Points": 0,
+            "Earing": 0,
+            "Players": [
+                {
+                    "Nickname": "Techno",
+                    "Rating": 1.09,
+                    "Kills": 1090,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "MOUZ"
+                },
+                {
+                    "Nickname": "khaN",
+                    "Rating": 1.04,
+                    "Kills": 1040,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "MOUZ"
+                },
+                {
+                    "Nickname": "w0nderful",
+                    "Rating": 1.16,
+                    "Kills": 1160,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "MOUZ"
+                },
+                {
+                    "Nickname": "Hobbit",
+                    "Rating": 1.08,
+                    "Kills": 1080,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "MOUZ"
+                },
+                {
+                    "Nickname": "apEX",
+                    "Rating": 0.95,
+                    "Kills": 950,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "MOUZ"
+                }
+            ],
+            "Wins": 0,
+            "Losses": 0,
+            "Trophys": {}
+        },
+        {
+            "Name": "Falcons",
+            "Points": 0,
+            "Earing": 0,
+            "Players": [
+                {
+                    "Nickname": "MAJ3R",
+                    "Rating": 0.82,
+                    "Kills": 820,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Falcons"
+                },
+                {
+                    "Nickname": "Snappy",
+                    "Rating": 0.96,
+                    "Kills": 960,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Falcons"
+                },
+                {
+                    "Nickname": "jcobbb",
+                    "Rating": 1.12,
+                    "Kills": 1120,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Falcons"
+                },
+                {
+                    "Nickname": "iM",
+                    "Rating": 1.06,
+                    "Kills": 1060,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Falcons"
+                },
+                {
+                    "Nickname": "jL",
+                    "Rating": 1.0,
+                    "Kills": 1000,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Falcons"
+                }
+            ],
+            "Wins": 0,
+            "Losses": 0,
+            "Trophys": {}
+        },
+        {
+            "Name": "Vitality",
+            "Points": 0,
+            "Earing": 0,
+            "Players": [
+                {
+                    "Nickname": "bLitz",
+                    "Rating": 1.06,
+                    "Kills": 1060,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Vitality"
+                },
+                {
+                    "Nickname": "rain",
+                    "Rating": 1.09,
+                    "Kills": 1090,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Vitality"
+                },
+                {
+                    "Nickname": "HooXi",
+                    "Rating": 0.91,
+                    "Kills": 910,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Vitality"
+                },
+                {
+                    "Nickname": "mzinho",
+                    "Rating": 1.07,
+                    "Kills": 1070,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Vitality"
+                },
+                {
+                    "Nickname": "deko",
+                    "Rating": 1.22,
+                    "Kills": 1220,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Vitality"
+                }
+            ],
+            "Wins": 0,
+            "Losses": 0,
+            "Trophys": {}
+        },
+        {
+            "Name": "G2",
+            "Points": 0,
+            "Earing": 0,
+            "Players": [
+                {
+                    "Nickname": "Aleksib",
+                    "Rating": 0.94,
+                    "Kills": 940,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "G2"
+                },
+                {
+                    "Nickname": "m0NESY",
+                    "Rating": 1.16,
+                    "Kills": 1160,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "G2"
+                },
+                {
+                    "Nickname": "molodoy",
+                    "Rating": 1.16,
+                    "Kills": 1160,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "G2"
+                },
+                {
+                    "Nickname": "electroNic",
+                    "Rating": 0.98,
+                    "Kills": 980,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "G2"
+                },
+                {
+                    "Nickname": "b1t",
+                    "Rating": 1.17,
+                    "Kills": 1170,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "G2"
+                }
+            ],
+            "Wins": 0,
+            "Losses": 0,
+            "Trophys": {}
+        },
+        {
+            "Name": "Furia",
+            "Points": 0,
+            "Earing": 0,
+            "Players": [
+                {
+                    "Nickname": "Twistzz",
+                    "Rating": 1.11,
+                    "Kills": 1110,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Furia"
+                },
+                {
+                    "Nickname": "tN1R",
+                    "Rating": 1.15,
+                    "Kills": 1150,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Furia"
+                },
+                {
+                    "Nickname": "xeritoN",
+                    "Rating": 1.09,
+                    "Kills": 1090,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Furia"
+                },
+                {
+                    "Nickname": "karrigan",
+                    "Rating": 0.79,
+                    "Kills": 790,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Furia"
+                },
+                {
+                    "Nickname": "Wicadia",
+                    "Rating": 1.14,
+                    "Kills": 1140,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": "Furia"
+                }
+            ],
+            "Wins": 0,
+            "Losses": 0,
+            "Trophys": {}
+        },
+        {
+            "Name": null,
+            "Points": 0,
+            "Earing": 0,
+            "Players": [
+                {
+                    "Nickname": "Sh1ro",
+                    "Rating": 1.23,
+                    "Kills": 1230,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": null
+                },
+                {
+                    "Nickname": "S1mple",
+                    "Rating": 1.33,
+                    "Kills": 1330,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": null
+                },
+                {
+                    "Nickname": "HeavyGod",
+                    "Rating": 1.17,
+                    "Kills": 1170,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": null
+                },
+                {
+                    "Nickname": "wojx",
+                    "Rating": 1.12,
+                    "Kills": 1210,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": null
+                },
+                {
+                    "Nickname": "Boombl4",
+                    "Rating": 0.96,
+                    "Kills": 960,
+                    "Deaths": 1000,
+                    "Trophys": 0,
+                    "MVP": false,
+                    "Team": null
+                }
+            ],
+            "Wins": 0,
+            "Losses": 0,
+            "Trophys": {},
+            "is_user": true
+        }
+    ],
+    "Players": [
+        {
+            "Nickname": "Brollan",
+            "Rating": 0.98,
+            "Kills": 980,
+            "Deaths": 1000,
+            "Trophys": 0,
+            "MVP": false,
+            "Team": null
+        },
+        {
+            "Nickname": "tO0RO",
+            "Rating": 1.1,
+            "Kills": 1100,
+            "Deaths": 1000,
+            "Trophys": 0,
+            "MVP": false,
+            "Team": null
+        },
+        {
+            "Nickname": "malbsMd",
+            "Rating": 1.05,
+            "Kills": 1050,
+            "Deaths": 1000,
+            "Trophys": 0,
+            "MVP": false,
+            "Team": null
+        },
+        {
+            "Nickname": "dem0n",
+            "Rating": 1.22,
+            "Kills": 1220,
+            "Deaths": 1000,
+            "Trophys": 0,
+            "MVP": false,
+            "Team": null
+        },
+        {
+            "Nickname": "headtr1ck",
+            "Rating": 0.96,
+            "Kills": 960,
+            "Deaths": 1000,
+            "Trophys": 0,
+            "MVP": false,
+            "Team": null
+        },
+        {
+            "Nickname": "Niko",
+            "Rating": 1.2,
+            "Kills": 1200,
+            "Deaths": 1000,
+            "Trophys": 0,
+            "MVP": false,
+            "Team": null
+        },
+        {
+            "Nickname": "siuhy",
+            "Rating": 0.86,
+            "Kills": 860,
+            "Deaths": 1000,
+            "Trophys": 0,
+            "MVP": false,
+            "Team": null
+        },
+        {
+            "Nickname": "YekidnaR",
+            "Rating": 1.04,
+            "Kills": 1040,
+            "Deaths": 1000,
+            "Trophys": 0,
+            "MVP": false,
+            "Team": null
+        }
+    ],
+    "Tournament": 1
+}

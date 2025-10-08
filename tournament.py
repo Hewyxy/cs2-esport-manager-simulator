@@ -18,6 +18,21 @@ tournaments = [
         }
     },
     {
+        "Name": "FISSURE Playgorund",
+        "PrizePool": 1250000,
+        "title": "FISSURE x",
+        "Prizes": {
+            1: 200000,
+            2: 100000,
+            3: 40000,
+            4: 40000,
+            5: 17500,
+            6: 17500,
+            7: 17500,
+            8: 17500
+        }
+    },
+    {
         "Name": "ESL One Cologne",
         "PrizePool": 1000000,
         "title": "ESL One x",

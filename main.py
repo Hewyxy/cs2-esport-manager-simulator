@@ -48,12 +48,12 @@ def main():
         os.system('cls')
     while True:
         print("\t\tMENU")
-        print("\t\t[1]Play\n\t\t[2]Team Ranking\n\t\t[3]Roster\n\t\t[4]Player Ranking\n\t\t[E]Exit")
+        print("\t\t[1]Play[]\n\t\t[2]Team Ranking\n\t\t[3]Roster\n\t\t[4]Player Ranking\n\t\t[E]Exit")
         user = input()
         if user == "1":
             tournament(teams, current_tournament)
             current_tournament += 1
-            if current_tournament == 7:
+            if current_tournament == 8:
                 current_tournament = 0
                 balance(teams)
                 save_game(data)
